@@ -1,3 +1,3 @@
-# convert-the-temperature
+# Convert the Temperature
 
-**Problem:** [convert-the-temperature](https://leetcode.com/problems/convert-the-temperature/submissions/1932801398/)
+**Problem:** [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature)
